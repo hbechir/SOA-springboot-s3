@@ -1,0 +1,34 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-PlantesApplication<plantes>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.nour.plantes.PlantesApplication",
+            "projectName": "plantes",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-GamesApplication<plantes>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.nour.games.GamesApplication",
+            "projectName": "plantes",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-GamesApplication<plantes>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.bechir.games.GamesApplication",
+            "projectName": "plantes",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
